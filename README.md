@@ -1,8 +1,8 @@
-# FUTURE_DS_02
-Facebook Ad Analysis Dashboard
+
+#Facebook Ad Analysis Dashboard
 This project is an end-to-end analysis and visualization of Facebook ad campaign performance using real-world data. It focuses on identifying top-performing ads, understanding user engagement, and analyzing demographic insights through a Power BI dashboard.
 
-Dataset
+#Dataset
 Sourced from Kaggle
 
 Contains detailed Facebook ad data including impressions, clicks, spend, age, gender, and conversion metrics
